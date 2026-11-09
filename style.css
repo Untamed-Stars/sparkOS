@@ -16,17 +16,9 @@ html, body {
 }
 
 #icon-area {
-  flex: 1;
   background-image: url('default-backdrop.jpeg'); 
   background-repeat: no-repeat; 
   background-position: center; 
   background-size: cover;           
   background-attachment: fixed; 
-
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-  grid-template-rows: repeat(auto-fill, minmax(80px, 1fr));
-  gap: 15px;
-  padding: 20px;
-}
 }
