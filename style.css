@@ -16,6 +16,9 @@ html, body {
 }
 
 #icon-area {
+  width: 100vw;
+  height: 100vh;
+  
   background-image: url('default-backdrop.png'); 
   background-repeat: no-repeat; 
   background-position: center; 
