@@ -1,0 +1,5 @@
+• Terracotta (Primary): #C86D51
+• Warm Sand (Secondary): #EEDEC2
+• Deep Espresso (Dark Accent): #2C221E
+• Soft Sage (Muted Complement): #8A9A86
+• Off-White / Cream (Background): #FBF9F5
