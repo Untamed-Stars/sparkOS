@@ -1,5 +1,5 @@
-• Terracotta (Primary): #C86D51
-• Warm Sand (Secondary): #EEDEC2
-• Deep Espresso (Dark Accent): #2C221E
-• Soft Sage (Muted Complement): #8A9A86
-• Off-White / Cream (Background): #FBF9F5
+• Bright Neon Cyan (Wave Highlights): #00D2FF
+• Electric Blue (Midtones): #0072FF
+• Deep Blue / Navy (Glow Transitions): #0A1931
+• Midnight Blue (Shadow Background): #030712
+• Soft White / Ice Blue (Particles & Sparkles): #E0F2FE
