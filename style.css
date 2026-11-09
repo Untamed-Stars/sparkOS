@@ -1,8 +1,9 @@
 :root {
-  --primary: #C86D51;
-  --secondary: #EEDEC2;
-  --text: #2C221E;
-  --backer: #FBF9F5;
+  --primary: #0072FF;
+  --secondary: #0A1931;
+  --text: #00D2FF;
+  --backer: #030712;
+  --headers: #E0F2FE;
 }
 
 html, body {
