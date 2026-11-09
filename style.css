@@ -5,10 +5,6 @@
   --backer: #FBF9F5;
 }
 
-body {
-  background-color: var(--backer);
-}
-
 #icon-area {
   background-image: url('default-backdrop.jpeg'); 
             
