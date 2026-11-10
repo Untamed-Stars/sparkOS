@@ -30,4 +30,5 @@ html, body {
 #taskbar {
   width: 100vw;
   height: 20px;
+  background-color: #FFFFFF;
 }
