@@ -16,19 +16,31 @@ html, body {
   background-color: var(--backer);
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  display: flex;
+}
+
 #icon-area {
-  width: 100vw;
-  height: 100vh;
-  
+  flex: 1;
   background-image: url('default-backdrop.png'); 
   background-repeat: no-repeat; 
   background-position: center; 
-  background-size: cover;           
-  background-attachment: fixed; 
+  background-size: cover;
 }
 
 #taskbar {
-  width: 100vw;
-  height: 20px;
-  background-color: #FFFFFF;
+  width: 100%;
+  height: 36px;
+  background-color: var(--secondary);
+  border-top: 1px solid var(--primary);
+  display: flex;
+  align-items: center;
+  padding: 0 12px;
+  box-sizing: border-box;
 }
