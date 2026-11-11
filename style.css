@@ -36,9 +36,9 @@ main {
 
 #taskbar {
   width: 100%;
-  height: 75px;
-  background-color: var(--primary);
-  border: 1px solid var(--secondary);
+  height: 72px;
+  background-color: var(--secondary);
+  border: 3px solid var(--primary);
   display: flex;
   align-items: center;
   padding: 0 12px;
